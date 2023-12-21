@@ -1,0 +1,96 @@
+C:\Users\Andrii_Asus\Google Drive\MicroControllers\EXAMPLES\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+C:\Users\Andrii_Asus\Google Drive\MicroControllers\EXAMPLES\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\Andrii_Asus\Google Drive\MicroControllers\EXAMPLES\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\Andrii_Asus\Google Drive\MicroControllers\EXAMPLES\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Andrii_Asus\Google Drive\MicroControllers\EXAMPLES\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Andrii_Asus\Google Drive\MicroControllers\EXAMPLES\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Andrii_Asus\Google Drive\MicroControllers\EXAMPLES\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+C:\Users\Andrii_Asus\Google Drive\MicroControllers\EXAMPLES\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+D:\Google Drive\MicroControllers\EXAMPLES\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+D:\Google Drive\MicroControllers\EXAMPLES\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+D:\Google Drive\MicroControllers\EXAMPLES\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+D:\Google Drive\MicroControllers\EXAMPLES\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+D:\Google Drive\MicroControllers\EXAMPLES\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+D:\Google Drive\MicroControllers\EXAMPLES\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Google Drive\MicroControllers\EXAMPLES\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+D:\Google Drive\MicroControllers\EXAMPLES\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\Google Drive\MicroControllers\EXAMPLES\COM_port\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Labs\MK\Lab_2\GUI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+D:\Labs\MK\Lab_2\GUI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+D:\Labs\MK\Lab_2\GUI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+D:\Labs\MK\Lab_2\GUI\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.AssemblyReference.cache
+D:\Labs\MK\Lab_2\GUI\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.SuggestedBindingRedirects.cache
+D:\Labs\MK\Lab_2\GUI\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+D:\Labs\MK\Lab_2\GUI\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\Labs\MK\Lab_2\GUI\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.cache
+D:\Labs\MK\Lab_2\GUI\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+D:\Labs\MK\Lab_2\GUI\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+D:\Labs\MK\Lab_2\GUI\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+C:\Users\PASHTET!\Downloads\Lab_2\GUI1\GUI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+C:\Users\PASHTET!\Downloads\Lab_2\GUI1\GUI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\PASHTET!\Downloads\Lab_2\GUI1\GUI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\PASHTET!\Downloads\Lab_2\GUI1\GUI\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.AssemblyReference.cache
+C:\Users\PASHTET!\Downloads\Lab_2\GUI1\GUI\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.SuggestedBindingRedirects.cache
+C:\Users\PASHTET!\Downloads\Lab_2\GUI1\GUI\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\PASHTET!\Downloads\Lab_2\GUI1\GUI\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\PASHTET!\Downloads\Lab_2\GUI1\GUI\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.cache
+C:\Users\PASHTET!\Downloads\Lab_2\GUI1\GUI\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+C:\Users\PASHTET!\Downloads\Lab_2\GUI1\GUI\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+C:\Users\PASHTET!\Downloads\Lab_2\GUI1\GUI\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
+C:\Users\PASHTET!\Downloads\Lab_2\GUI1\GUI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\BouncyCastle.Crypto.dll
+C:\Users\PASHTET!\Downloads\Lab_2\GUI1\GUI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\Google.Protobuf.dll
+C:\Users\PASHTET!\Downloads\Lab_2\GUI1\GUI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\K4os.Compression.LZ4.dll
+C:\Users\PASHTET!\Downloads\Lab_2\GUI1\GUI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\K4os.Compression.LZ4.Streams.dll
+C:\Users\PASHTET!\Downloads\Lab_2\GUI1\GUI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\K4os.Hash.xxHash.dll
+C:\Users\PASHTET!\Downloads\Lab_2\GUI1\GUI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\MySql.Data.dll
+C:\Users\PASHTET!\Downloads\Lab_2\GUI1\GUI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\System.Buffers.dll
+C:\Users\PASHTET!\Downloads\Lab_2\GUI1\GUI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\System.Memory.dll
+C:\Users\PASHTET!\Downloads\Lab_2\GUI1\GUI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\System.Numerics.Vectors.dll
+C:\Users\PASHTET!\Downloads\Lab_2\GUI1\GUI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PASHTET!\Downloads\Lab_2\GUI1\GUI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\Ubiety.Dns.Core.dll
+C:\Users\PASHTET!\Downloads\Lab_2\GUI1\GUI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\ZstdNet.dll
+C:\Users\PASHTET!\Downloads\Lab_2\GUI1\GUI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\Google.Protobuf.pdb
+C:\Users\PASHTET!\Downloads\Lab_2\GUI1\GUI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\Google.Protobuf.xml
+C:\Users\PASHTET!\Downloads\Lab_2\GUI1\GUI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\K4os.Compression.LZ4.xml
+C:\Users\PASHTET!\Downloads\Lab_2\GUI1\GUI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\K4os.Compression.LZ4.Streams.xml
+C:\Users\PASHTET!\Downloads\Lab_2\GUI1\GUI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\K4os.Hash.xxHash.xml
+C:\Users\PASHTET!\Downloads\Lab_2\GUI1\GUI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\MySql.Data.xml
+C:\Users\PASHTET!\Downloads\Lab_2\GUI1\GUI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\System.Buffers.xml
+C:\Users\PASHTET!\Downloads\Lab_2\GUI1\GUI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\System.Memory.xml
+C:\Users\PASHTET!\Downloads\Lab_2\GUI1\GUI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\System.Numerics.Vectors.xml
+C:\Users\PASHTET!\Downloads\Lab_2\GUI1\GUI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PASHTET!\Downloads\Lab_2\GUI1\GUI\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.CopyComplete
+D:\c_w\GUI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+D:\c_w\GUI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+D:\c_w\GUI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+D:\c_w\GUI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\BouncyCastle.Crypto.dll
+D:\c_w\GUI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\Google.Protobuf.dll
+D:\c_w\GUI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\K4os.Compression.LZ4.dll
+D:\c_w\GUI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\K4os.Compression.LZ4.Streams.dll
+D:\c_w\GUI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\K4os.Hash.xxHash.dll
+D:\c_w\GUI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\MySql.Data.dll
+D:\c_w\GUI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\System.Buffers.dll
+D:\c_w\GUI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\System.Memory.dll
+D:\c_w\GUI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\System.Numerics.Vectors.dll
+D:\c_w\GUI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\c_w\GUI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\Ubiety.Dns.Core.dll
+D:\c_w\GUI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\ZstdNet.dll
+D:\c_w\GUI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\Google.Protobuf.pdb
+D:\c_w\GUI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\Google.Protobuf.xml
+D:\c_w\GUI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\K4os.Compression.LZ4.xml
+D:\c_w\GUI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\K4os.Compression.LZ4.Streams.xml
+D:\c_w\GUI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\K4os.Hash.xxHash.xml
+D:\c_w\GUI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\MySql.Data.xml
+D:\c_w\GUI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\System.Buffers.xml
+D:\c_w\GUI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\System.Memory.xml
+D:\c_w\GUI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\System.Numerics.Vectors.xml
+D:\c_w\GUI\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\c_w\GUI\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.AssemblyReference.cache
+D:\c_w\GUI\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.SuggestedBindingRedirects.cache
+D:\c_w\GUI\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+D:\c_w\GUI\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\c_w\GUI\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.cache
+D:\c_w\GUI\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.CoreCompileInputs.cache
+D:\c_w\GUI\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.CopyComplete
+D:\c_w\GUI\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+D:\c_w\GUI\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
